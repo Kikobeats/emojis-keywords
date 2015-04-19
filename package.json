@@ -1,0 +1,31 @@
+{
+  "name": "emoji-keywords",
+  "description": "Complete list of a emoji shortcuts.",
+  "homepage": "https://github.com/Kikobeats/emoji-keywords",
+  "version": "1.0.0",
+  "main": "./index.js",
+  "author": {
+    "name": "Kiko Beats",
+    "email": "josefrancisco.verdu@gmail.com",
+    "url": "https://github.com/Kikobeats"
+  },
+  "repository": "Kikobeats/emoji-keywords",
+  "bugs": {
+    "url": "https://github.com/Kikobeats/emoji-keywords/issues"
+  },
+  "keywords": ["emoji", "keywords", "shortcuts"],
+  "dependencies": {
+    "acho": "*",
+    "download": "*",
+    "tmp": "*"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">= 0.10.0",
+    "npm": ">= 1.4.0"
+  },
+  "scripts": {
+    "test": "sh test/test.sh"
+  },
+  "license": "MIT"
+}

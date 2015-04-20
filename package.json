@@ -1,7 +1,7 @@
 {
-  "name": "emoji-keywords",
-  "description": "Complete list of a emoji shortcuts.",
-  "homepage": "https://github.com/Kikobeats/emoji-keywords",
+  "name": "emojis-keywords",
+  "description": "Complete list of a emojis shortcuts.",
+  "homepage": "https://github.com/Kikobeats/emojis-keywords",
   "version": "1.0.1",
   "main": "./index.js",
   "author": {
@@ -9,9 +9,9 @@
     "email": "josefrancisco.verdu@gmail.com",
     "url": "https://github.com/Kikobeats"
   },
-  "repository": "Kikobeats/emoji-keywords",
+  "repository": "Kikobeats/emojis-keywords",
   "bugs": {
-    "url": "https://github.com/Kikobeats/emoji-keywords/issues"
+    "url": "https://github.com/Kikobeats/emojis-keywords/issues"
   },
   "keywords": ["emoji", "keywords", "shortcuts"],
   "devDependencies": {

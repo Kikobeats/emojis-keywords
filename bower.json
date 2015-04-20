@@ -2,7 +2,7 @@
   "name": "emoji-keywords",
   "description": "Complete list of a emoji shortcuts.",
   "homepage": "https://github.com/Kikobeats/emoji-keywords",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./dist/emoji-keywords.js",
   "authors": [
     {

@@ -8,17 +8,6 @@ var os = require('os'),
     Download = require('download'),
     logger = new Acho({color: true});
 
-var generateFileContent = function(data) {
-  var content = "'use strict';";
-  content += os.EOL;
-  content += os.EOL;
-  content += 'module.exports = ';
-  content += data;
-  content += ';';
-  content += os.EOL;
-  return content;
-};
-
 tmp.dir(function _tempDirCreated(err, tmpFolder, cleanup) {
   if (err) return logger.error(err);
 
@@ -47,7 +36,7 @@ tmp.dir(function _tempDirCreated(err, tmpFolder, cleanup) {
       });
 
       var data = JSON.stringify(result, null, 2);
-      fs.writeFile('index.js', generateFileContent(data), function(err) {
+      fs.writeFile('emojis.json', data, function(err) {
         if (err) throw err;
         logger.success('File saved!');
       });

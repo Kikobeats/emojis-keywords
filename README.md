@@ -5,7 +5,7 @@
 [![NPM Status](http://img.shields.io/npm/dm/emojis-keywords.svg?style=flat-square)](https://www.npmjs.org/package/emojis-keywords)
 [![Gittip](http://img.shields.io/gittip/Kikobeats.svg?style=flat-square)](https://www.gittip.com/Kikobeats/)
 
-> Complete list of a emoji shortcuts. Based on [emoji-cheat-sheet.com](http://www.emoji-cheat-sheet.com).
+> Complete list of am emoji shortcuts. Based on [emoji-cheat-sheet.com](http://www.emoji-cheat-sheet.com).
 
 The file content all shortcuts declared that you can use for invoke a emoji.
 

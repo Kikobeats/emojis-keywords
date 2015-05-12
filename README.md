@@ -5,7 +5,7 @@
 [![NPM Status](http://img.shields.io/npm/dm/emojis-keywords.svg?style=flat-square)](https://www.npmjs.org/package/emojis-keywords)
 [![Gittip](http://img.shields.io/gittip/Kikobeats.svg?style=flat-square)](https://www.gittip.com/Kikobeats/)
 
-> Complete list of a emoji shortcuts. Based on [emoji-cheat-sheet.com](http://www.emoji-cheat-sheet.com).
+> Complete list of am emoji shortcuts. Based on [emoji-cheat-sheet.com](http://www.emoji-cheat-sheet.com).
 
 The file content all shortcuts declared that you can use for invoke a emoji.
 
@@ -34,6 +34,12 @@ var emojis = require('emojis-keywords');
 console.log(emojis[0]);
 // => +1
 ```
+
+## Related
+
+* [is-emoji-keyword](https://github.com/Kikobeats/is-emoji-keyword) – Check if a word is a emoji shortcut.
+* [trim-emoji](https://github.com/Kikobeats/trim-emoji) – Deletes ':' from the begin and the end of an emoji shortcut.
+* [emojis-unicode](https://github.com/Kikobeats/emojis-unicode) – Complete list of standard Unicode codes that represent emojis.
 
 ## License
 

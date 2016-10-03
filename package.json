@@ -20,7 +20,7 @@
   ],
   "devDependencies": {
     "emojione": "~2.2.6",
-    "emojis-list": "~2.0.1",
+    "emojis-list": "~2.1.0",
     "standard": "latest"
   },
   "engines": {

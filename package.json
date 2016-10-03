@@ -19,9 +19,9 @@
     "shortcuts"
   ],
   "devDependencies": {
-    "acho": "*",
-    "download": "*",
-    "tmp": "*"
+    "emojione": "~2.2.6",
+    "emojis-list": "~2.0.1",
+    "standard": "latest"
   },
   "engines": {
     "node": ">= 0.10.0",

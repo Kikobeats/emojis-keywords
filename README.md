@@ -5,9 +5,7 @@
 [![NPM Status](http://img.shields.io/npm/dm/emojis-keywords.svg?style=flat-square)](https://www.npmjs.org/package/emojis-keywords)
 [![Gittip](http://img.shields.io/gittip/Kikobeats.svg?style=flat-square)](https://www.gittip.com/Kikobeats/)
 
-> Complete list of am emoji shortcuts. Based on [emoji-cheat-sheet.com](http://www.emoji-cheat-sheet.com).
-
-The file content all shortcuts declared that you can use for invoke a emoji.
+> Complete list of emoji shortcuts. The list is a 1:1 map of [emojis-list](https://github.com/Kikobeats/emojis-list).
 
 ## Install
 
@@ -32,7 +30,7 @@ and later link in your HTML:
 ```
 var emojis = require('emojis-keywords');
 console.log(emojis[0]);
-// => +1
+// => :mahjong:
 ```
 
 ## Related
@@ -40,7 +38,7 @@ console.log(emojis[0]);
 * [emojis-unicode](https://github.com/Kikobeats/emojis-unicode) – Complete list of standard Unicode codes that represent emojis.
 * [emojis-list](https://github.com/Kikobeats/emojis-list) – Complete list of standard emojis.
 * [is-emoji-keyword](https://github.com/Kikobeats/is-emoji-keyword) – Check if a word is a emoji shortcut.
-* [is-standard-emoji](https://github.com/kikobeats/is-standard-emoji) – Simply way to check if a emoji is a standard emoji. 
+* [is-standard-emoji](https://github.com/kikobeats/is-standard-emoji) – Simply way to check if a emoji is a standard emoji.
 * [trim-emoji](https://github.com/Kikobeats/trim-emoji) – Deletes ':' from the begin and the end of an emoji shortcut.
 
 ## License

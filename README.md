@@ -1,5 +1,7 @@
 # emojis-keywords
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/emojis-keywords.svg)](https://greenkeeper.io/)
+
 [![Dependency status](http://img.shields.io/david/Kikobeats/emojis-keywords.svg?style=flat-square)](https://david-dm.org/Kikobeats/emojis-keywords)
 [![Dev Dependencies Status](http://img.shields.io/david/dev/Kikobeats/emojis-keywords.svg?style=flat-square)](https://david-dm.org/Kikobeats/emojis-keywords#info=devDependencies)
 [![NPM Status](http://img.shields.io/npm/dm/emojis-keywords.svg?style=flat-square)](https://www.npmjs.org/package/emojis-keywords)

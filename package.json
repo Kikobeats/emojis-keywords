@@ -22,7 +22,7 @@
     "shortcuts"
   ],
   "devDependencies": {
-    "emojione": "~3.1.2",
+    "emojione": "~4.0.0",
     "emojis-list": "~2.1.0",
     "standard": "latest"
   },

@@ -1,12 +1,12 @@
 {
   "name": "emojis-keywords",
-  "description": "Complete list of a emojis shortcuts.",
+  "description": "Complete list of standard emoji shortcode keywords and shortcuts for lookup and validation.",
   "homepage": "https://github.com/Kikobeats/emojis-keywords",
   "version": "2.0.0",
   "main": "./index.js",
   "author": {
-    "email": "josefrancisco.verdu@gmail.com",
     "name": "Kiko Beats",
+    "email": "josefrancisco.verdu@gmail.com",
     "url": "https://github.com/Kikobeats"
   },
   "repository": {
@@ -19,7 +19,14 @@
   "keywords": [
     "emoji",
     "keywords",
-    "shortcuts"
+    "shortcuts",
+    "shortcode",
+    "list",
+    "unicode",
+    "emoticon",
+    "smile",
+    "lookup",
+    "dictionary"
   ],
   "devDependencies": {
     "emojione": "~4.5.0",
